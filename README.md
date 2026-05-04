@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculator Project
 
 ## Description
@@ -15,3 +16,7 @@ Ce projet est une calculatrice simple développée en Python.
 
 ## Auteur
 Amira
+=======
+# ST-GROUPE2
+python json readme
+>>>>>>> c564f5bc94f99cc4f0e49b76f7170a4d8e1ba581
